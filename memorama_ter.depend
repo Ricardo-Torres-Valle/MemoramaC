@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1500939847 source:c:\users\wuich_vl3qkyl\documents\memorama_ter\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"memorama.h"
+
+1500939847 source:c:\users\wuich_vl3qkyl\documents\memorama_ter\memorama.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"memorama.h"
+
+1500939819 c:\users\wuich_vl3qkyl\documents\memorama_ter\memorama.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1500947234 source:c:\users\skr1996\documents\memorama final\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"memorama.h"
+
+1500939819 c:\users\skr1996\documents\memorama final\memorama.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1500939847 source:c:\users\skr1996\documents\memorama final\memorama.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"memorama.h"
+
+1500939848 source:f:\memorama final\memorama.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"memorama.h"
+
+1500939820 f:\memorama final\memorama.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1501049544 source:f:\memorama final\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"memorama.h"
+
+1501358467 source:c:\users\wuich_vl3qkyl\desktop\memorama final\memorama.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"memorama.h"
+
+1500939820 c:\users\wuich_vl3qkyl\desktop\memorama final\memorama.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1501116846 source:c:\users\wuich_vl3qkyl\desktop\memorama final\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"memorama.h"
+
+1501634430 source:c:\users\wuich_vl3qkyl\desktop\memocr\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"memorama.h"
+
+1501634244 c:\users\wuich_vl3qkyl\desktop\memocr\memorama.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1501634430 source:c:\users\wuich_vl3qkyl\desktop\memocr\memorama.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"memorama.h"
+
+1573172989 source:c:\users\wuich_vl3qkyl\onedrive\documentos\luis\proyecto memorama\memorama final(bueno)\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"memorama.h"
+
+1501630644 c:\users\wuich_vl3qkyl\onedrive\documentos\luis\proyecto memorama\memorama final(bueno)\memorama.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1561091383 source:c:\users\wuich_vl3qkyl\onedrive\documentos\luis\proyecto memorama\memorama final(bueno)\memorama.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"memorama.h"
+
